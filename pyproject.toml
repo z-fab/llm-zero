@@ -1,0 +1,22 @@
+[project]
+name = "llm-zero"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "nbformat>=5.10.4",
+    "pandas>=2.2.3",
+    "plotly>=5.24.1",
+    "polars>=1.19.0",
+    "regex>=2024.11.6",
+    "sentencepiece>=0.2.0",
+    "torch>=2.5.1",
+    "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
