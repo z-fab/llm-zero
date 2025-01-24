@@ -12,7 +12,7 @@ Esta série está dividida em 8 partes de código:
 1. [Introdução](https://blog.zfab.me/construindo-um-llm-entendendo-os-grandes-modelos-de-linguagem-b37884219eaa)
 2. [Tokenização](/notebook/2-tokenizacao.ipynb)
 3. [Embedding](/notebook/3-embedding.ipynb)
-4. Mecanismo de Atenção
+4. [Mecanismo de Atenção](/notebook/4-atencao.ipynb)
 5. Arquitetura Transformer
 6. Criando um GPT
 7. Treinando um Foundational Model
