@@ -13,7 +13,7 @@ Esta série está dividida em 8 partes de código:
 2. [Tokenização](/notebook/2-tokenizacao.ipynb)
 3. [Embedding](/notebook/3-embedding.ipynb)
 4. [Mecanismo de Atenção](/notebook/4-atencao.ipynb)
-5. Arquitetura Transformer
+5. [Bloco Transformer](/notebook/5-bloco-transformer.ipynb)
 6. Criando um GPT
 7. Treinando um Foundational Model
 8. Especializando
