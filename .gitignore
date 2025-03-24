@@ -240,3 +240,4 @@ pyrightconfig.json
 
 wandb/*
 *.code-workspace
+*.pth
