@@ -21,4 +21,4 @@ Esta série está dividida em 8 partes de código:
 
 Você pode acompanhar a série de artigos no [meu blog no Medium](https://blog.zfab.me/).
 
--   Você pode acessar o modelo pré treinado no Hugging Face [https://huggingface.co/zfab/llmdozero](https://huggingface.co/zfab/llmdozero).
+[*] Você pode acessar o modelo pré treinado no Hugging Face [https://huggingface.co/zfab/llmdozero](https://huggingface.co/zfab/llmdozero).
