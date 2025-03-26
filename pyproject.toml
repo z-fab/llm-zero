@@ -16,6 +16,7 @@ dependencies = [
     "plotly>=5.24.1",
     "polars>=1.19.0",
     "regex>=2024.11.6",
+    "safetensors>=0.5.2",
     "seaborn>=0.13.2",
     "sentencepiece>=0.2.0",
     "torch>=2.5.1",
