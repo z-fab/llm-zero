@@ -16,7 +16,9 @@ Esta série está dividida em 8 partes de código:
 4. [Mecanismo de Atenção](/notebook/4-atencao.ipynb)
 5. [Bloco Transformer](/notebook/5-bloco-transformer.ipynb)
 6. [Criando um GPT](/notebook/6-arquitetura-gpt.ipynb)
-7. [Treinando um Foundational Model](notebook/7-train-model.ipynb)
+7. [Treinando um Foundational Model](notebook/7-train-model.ipynb) \*
 8. Especializando
 
 Você pode acompanhar a série de artigos no [meu blog no Medium](https://blog.zfab.me/).
+
+-   Você pode acessar o modelo pré treinado no Hugging Face [https://huggingface.co/zfab/llmdozero](https://huggingface.co/zfab/llmdozero).
